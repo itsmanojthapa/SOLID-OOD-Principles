@@ -1,0 +1,3 @@
+- [x] implement last assignment OCP
+- [ ] add extra feature using Open-Closed Principle to invoice class
+- [ ] add print to console or print into PDF feature
